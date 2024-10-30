@@ -60,3 +60,13 @@
 .cat3 {
   background-image: linear-gradient(to right, blue, skyblue);
 }
+
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgrey;
+}
+
+.card-footer {
+  border-top: none;
+  background-color: #fff;
+}
