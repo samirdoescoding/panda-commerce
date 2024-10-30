@@ -70,3 +70,15 @@
   border-top: none;
   background-color: #fff;
 }
+
+#subscribe {
+  height: 300px;
+}
+
+#subscribe h6 {
+  color: grey;
+}
+
+footer {
+  text-align: center;
+}
